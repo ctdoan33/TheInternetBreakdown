@@ -1,0 +1,231 @@
+* {
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	}
+#header{
+    background-color: white;
+    width: 1970px;
+}
+#globe{
+    width: 200px;
+    margin-bottom: -40px;
+}
+#internet{
+    display: inline-block;
+    font-size: 80pt;
+    vertical-align: top;
+    padding-top: 40px;
+}
+#www{
+    color: white;
+    font-size: 48pt;
+    height: 90px;
+    width: 1930px;
+    background: #3D76A6;
+    background: -webkit-linear-gradient(#25669F, #5082AB, #25669F);
+    background: -o-linear-gradient(#25669F, #5082AB, #25669F);
+    background: -moz-linear-gradient(#25669F, #5082AB, #25669F);
+    background: linear-gradient(#25669F, #5082AB, #25669F);
+    padding-top: 20px;
+    padding-left: 40px;
+}
+#bottombackground{
+    width: 1970px;
+    height: 1500px;
+    background: #E3E3E3;
+    background: -webkit-linear-gradient(#E3E3E3, white, white);
+    background: -o-linear-gradient(#E3E3E3, white, white);
+    background: -moz-linear-gradient(#E3E3E3, white, white);
+    background: linear-gradient(#E3E3E3, white, white);
+}
+#sidebar{
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+#question{
+    font-size: 26pt;
+    font-weight: bold;
+    padding-top: 50px;
+}
+#answer{
+    font-size: 22pt;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+#watch{
+    background: #417CAF;
+    background: -webkit-linear-gradient(#6399C4, #2668A0);
+    background: -o-linear-gradient(#6399C4, #2668A0);
+    background: -moz-linear-gradient(#6399C4, #2668A0);
+    background: linear-gradient(#6399C4, #2668A0);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+    font-size: 26pt;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10pt;
+    box-shadow: 3px 3px gray;
+}
+#resources{
+    background: #ED8E19;
+    background: -webkit-linear-gradient(#EBAE59, #F07500);
+    background: -o-linear-gradient(#EBAE59, #F07500);
+    background: -moz-linear-gradient(#EBAE59, #F07500);
+    background: linear-gradient(#EBAE59, #F07500);
+    padding-left: 30px;
+    padding-right: 29px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-size: 26pt;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10pt;
+    box-shadow: 3px 3px gray;
+}
+#ad{
+    width: 380px;
+    height: 600px;
+    margin-left: 10px;
+    margin-top: 40px;
+    background-image: url("./images/ad_background.png");
+    text-align: center;
+    display: inline-block;
+}
+#adtext{
+    color: white;
+    font-size: 36pt;
+    margin-top: 40px;
+}
+#ninja{
+    width: 180px;
+}
+#learnmore{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 24pt;
+    color: white;
+    background: #35C8DF;
+    background: -webkit-linear-gradient(#78D0DF, #00C0DF);
+    background: -o-linear-gradient(#78D0DF, #00C0DF);
+    background: -moz-linear-gradient(#78D0DF, #00C0DF);
+    background: linear-gradient(#78D0DF, #00C0DF);
+    width: 300px;
+    border-radius: 10pt;
+    box-shadow: 3px 3px gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+#main{
+    display: inline-block;
+    width: 1480px;
+    padding: 30px;
+}
+#home{
+    width: 50px;
+    vertical-align: top;
+}
+#dns{
+    text-decoration: none;
+    color: #3D77A8;
+    font-size: 30pt;
+    vertical-align: top;
+}
+#phone{
+    width: 100px;
+    margin-left: 880px;
+}
+#contact{
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin-top: -25px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+#hours{
+    font-size: 18pt;
+}
+#pnumber{
+    font-size: 45pt;
+    color: #02C0DF;
+    font-weight: bold;
+}
+#intnumber{
+    font-size: 18pt;
+}
+.subtitle{
+    font-size: 35pt;
+    font-weight: bold;
+    color: #2A6BA1;
+    margin: 10px;
+}
+.content{
+    font-size: 26pt;
+    margin: 10px;
+}
+#cslist{
+    font-size: 26pt;
+    margin-left: 70px;
+}
+#clientserverimg{
+    width: 600px;
+    margin-left: 450px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#happenlist{
+    margin-left: 70px;
+    font-size: 26pt;
+}
+#footer{
+    margin-top: 50px;
+    border: 10pt solid #0085E0;
+}
+#html{
+    width: 300px;
+    padding: 20px;
+}
+#big3{
+    display: inline-block;
+    width: 1060px;
+    vertical-align: top;
+    padding: 20px;
+}
+.redtext{
+    color: #DB3B35;
+}
+.bluetext{
+    color: #2A6BA1;
+}
+.lightblue{
+    color: #25A6BA;
+}
+.boldtext{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+hr{
+    display: block;
+    border: 1pt solid gray;
+}
